@@ -11,6 +11,10 @@
     border: 1px solid $color-text;
     border-radius: 22px;
 
+    @media screen and (max-width: 850px) {
+        display: none;
+    }
+
     .nav-bar-left,
     .nav-bar-right {
         display: flex;
@@ -39,6 +43,10 @@
 
     .nav-bar-right {
         width: 60%;
+        @media screen and (max-width: 1000px) {
+            width: 80%;
+        }
+
 
         .glass {
             height: 20px;
