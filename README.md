@@ -1,13 +1,13 @@
-# template-site-sass
+# Maquette 2
 
-template-site-sass is a template to get all the strucure make when you're start a new project with SASS.
+Maquette 2 is a model made in less than 1 hour. It is inspired from [Driblle](https://dribbble.com/shots/17242287-Neon-Signs-Website).
 
 ## Installation
 
 Clone this repository : 
 
 ```bash
-git clone git@github.com:AugustinBriolon/template-site-sass.git
+git clone git@github.com:AugustinBriolon/Maquette2.git
 ```
 
 ## Run Sass
