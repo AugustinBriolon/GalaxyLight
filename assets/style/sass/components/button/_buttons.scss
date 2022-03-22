@@ -1,0 +1,15 @@
+/* Button
+--------------------------------------------- */
+
+.btn {
+    background-color: $color-bg;
+    color: $color-text;
+    text-decoration: none;
+    text-align: center;
+    margin: 20px;
+    margin-top: 50px;
+    padding: 15px;
+    width: 150px;
+    border: 1px solid $color-text;
+    border-radius: 999px;
+}

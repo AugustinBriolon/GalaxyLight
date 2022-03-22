@@ -1,0 +1,41 @@
+/* First Section
+--------------------------------------------- */
+.home-page {
+    height: 100vh;
+}
+
+.home-page-content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    color: $color-text;
+    align-items: center;
+    justify-content: center;
+
+    h1 {
+        font-size: 7em;
+        font-weight: 900;
+
+        span {
+            background: rgb(127,129,217);
+            background: radial-gradient(circle, rgba(127,129,217,1) 0%, rgba(0,212,255,1) 27%, rgba(162,246,134,1) 67%, rgba(255,136,47,1) 86%);
+            -webkit-text-fill-color: transparent;
+            -webkit-background-clip: text;
+        }
+    }
+
+
+}
+
+.btn-container {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.anim {
+    position: absolute;
+    z-index: -2;
+}
