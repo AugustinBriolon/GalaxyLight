@@ -3,7 +3,7 @@ GalxyLight is a model made in less than 1 hour. It is inspired from [Driblle](ht
 
 ## Link
 
-https://maquette2.august1.dev/
+https://galaxylight.august1.dev/
 
 ## Installation
 
